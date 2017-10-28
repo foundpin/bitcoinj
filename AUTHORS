@@ -1,5 +1,7 @@
 $ git log --format='%aN' | sort -u
 
+Rob ter Meulen
+Hans Vos
 Aaron Voisine
 Adam Mackler
 Alexander Lolis
